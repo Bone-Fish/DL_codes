@@ -1,2 +1,2 @@
 # DL_codes
-Some codes about DL
+USTC 2024 Spring Deep Learning Course Experiment Code
